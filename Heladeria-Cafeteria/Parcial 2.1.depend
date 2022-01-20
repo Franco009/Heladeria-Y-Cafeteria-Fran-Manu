@@ -1,0 +1,376 @@
+# depslib dependency file v1.0
+1559254941 source:c:\users\peyon\documents\codeblocks\parcial 2.1\main.cpp
+	"Compras.h"
+
+1559246066 c:\users\peyon\documents\codeblocks\parcial 2.1\cafes.h
+	"Helados.h"
+
+1559253882 c:\users\peyon\documents\codeblocks\parcial 2.1\helados.h
+	"Utilidades.h"
+
+1559255596 c:\users\peyon\documents\codeblocks\parcial 2.1\compras.h
+	"Cafes.h"
+
+1559255603 c:\users\peyon\documents\codeblocks\parcial 2.1\utilidades.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\peyon\documents\codeblocks\parcial 2.1\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1560380648 source:c:\users\peyon\desktop\parcial 2.1\main.cpp
+	"Compras.h"
+
+1560382032 c:\users\peyon\desktop\parcial 2.1\compras.h
+	"Helados.h"
+
+1560384556 c:\users\peyon\desktop\parcial 2.1\cafes.h
+	"Stockcafe.h"
+
+1560377845 c:\users\peyon\desktop\parcial 2.1\helados.h
+	"Stockhelado.h"
+
+1560380947 c:\users\peyon\desktop\parcial 2.1\utilidades.h
+	"Menus.h"
+
+1557408190 c:\users\peyon\desktop\parcial 2.1\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1560384734 c:\users\peyon\desktop\parcial 2.1\stockcafe.h
+	"Utilidades.h"
+
+1560383566 c:\users\peyon\desktop\parcial 2.1\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1560357556 c:\users\peyon\desktop\parcial 2.1\stockhelado.h
+	"Cafes.h"
+
+1561083508 source:c:\users\peyon\desktop\parcial final\main.cpp
+	"Compras.h"
+
+1561588314 c:\users\peyon\desktop\parcial final\compras.h
+	"Productos.h"
+
+1560950354 c:\users\peyon\desktop\parcial final\helados.h
+	"Stockhelado.h"
+
+1560971806 c:\users\peyon\desktop\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1560951445 c:\users\peyon\desktop\parcial final\cafes.h
+	"Utilidades.h"
+
+1560388231 c:\users\peyon\desktop\parcial final\stockcafe.h
+	"Utilidades.h"
+
+1561587957 c:\users\peyon\desktop\parcial final\utilidades.h
+	"Menus.h"
+
+1561080523 c:\users\peyon\desktop\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\peyon\desktop\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1560954452 c:\users\peyon\desktop\parcial final\productos.h
+	"Stockhelado.h"
+
+1561644761 source:c:\users\administrador\desktop\parcial final\main.cpp
+	"Compras.h"
+
+1561647144 c:\users\administrador\desktop\parcial final\compras.h
+	"Productos.h"
+
+1561644761 c:\users\administrador\desktop\parcial final\productos.h
+	"Stockhelado.h"
+
+1561644761 c:\users\administrador\desktop\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1561646165 c:\users\administrador\desktop\parcial final\utilidades.h
+	"Menus.h"
+
+1561646828 c:\users\administrador\desktop\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\administrador\desktop\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1562793765 source:c:\users\peyon\desktop\parcial final\parcial final\main.cpp
+	"Compras.h"
+
+1562793765 c:\users\peyon\desktop\parcial final\parcial final\compras.h
+	"Productos.h"
+
+1562793090 c:\users\peyon\desktop\parcial final\parcial final\productos.h
+	"Stockhelado.h"
+
+1562793300 c:\users\peyon\desktop\parcial final\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562788610 c:\users\peyon\desktop\parcial final\parcial final\utilidades.h
+	"Menus.h"
+
+1562793965 c:\users\peyon\desktop\parcial final\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\peyon\desktop\parcial final\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1562793978 source:c:\users\peyon\desktop\parcial definitivo2\parcial final\main.cpp
+	"Compras.h"
+
+1562796222 c:\users\peyon\desktop\parcial definitivo2\parcial final\compras.h
+	"Productos.h"
+
+1562796346 c:\users\peyon\desktop\parcial definitivo2\parcial final\productos.h
+	"Stockhelado.h"
+
+1562793978 c:\users\peyon\desktop\parcial definitivo2\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562796375 c:\users\peyon\desktop\parcial definitivo2\parcial final\utilidades.h
+	"Menus.h"
+
+1562795872 c:\users\peyon\desktop\parcial definitivo2\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\peyon\desktop\parcial definitivo2\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1562846914 source:c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\main.cpp
+	"Compras.h"
+
+1562848346 c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\compras.h
+	"Productos.h"
+
+1562796346 c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\productos.h
+	"Stockhelado.h"
+
+1562793978 c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562848756 c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\utilidades.h
+	"Menus.h"
+
+1562847010 c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\administrador\desktop\parcial definitivo2\parcial definitivo2\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1563416439 source:c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\main.cpp
+	"Compras.h"
+
+1563416731 c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\compras.h
+	"Productos.h"
+
+1563416193 c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\productos.h
+	"Stockhelado.h"
+
+1562793978 c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562848756 c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\utilidades.h
+	"Menus.h"
+
+1562847010 c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\fran\documents\parcial definitivo2\parcial definitivo2\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1563416440 source:d:\parcial definitivo2\parcial definitivo2\parcial final\main.cpp
+	"Compras.h"
+
+1575613222 d:\parcial definitivo2\parcial definitivo2\parcial final\compras.h
+	"Productos.h"
+
+1563417686 d:\parcial definitivo2\parcial definitivo2\parcial final\productos.h
+	"Stockhelado.h"
+
+1575613270 d:\parcial definitivo2\parcial definitivo2\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562848758 d:\parcial definitivo2\parcial definitivo2\parcial final\utilidades.h
+	"Menus.h"
+
+1562847012 d:\parcial definitivo2\parcial definitivo2\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 d:\parcial definitivo2\parcial definitivo2\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1563416440 source:c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\main.cpp
+	"Compras.h"
+
+1563416732 c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\compras.h
+	"Productos.h"
+
+1563417686 c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\productos.h
+	"Stockhelado.h"
+
+1562793980 c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562848758 c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\utilidades.h
+	"Menus.h"
+
+1562847012 c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 c:\users\fran\desktop\parcial definitivo2\parcial definitivo2\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1563416440 source:d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\main.cpp
+	"Compras.h"
+
+1575613222 d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\compras.h
+	"Productos.h"
+
+1563417686 d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\productos.h
+	"Stockhelado.h"
+
+1575613270 d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\stockhelado.h
+	"Utilidades.h"
+
+1562848758 d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\utilidades.h
+	"Menus.h"
+
+1562847012 d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\menus.h
+	<conio.h>
+	<windows.h>
+	"Color.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<clocale>
+
+1557408190 d:\prog 2\parcial definitivo2\parcial definitivo2\parcial final\color.h
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
